@@ -4,7 +4,6 @@ body {
   background: #14495e;
 }
 
-
 button {
   font-size: 1.25em;
   background-color: red;
@@ -20,6 +19,13 @@ button:hover {
   background-size: cover;
   border-radius: 15px;
   opacity: .65;
+}
+
+.map-overlay {
+position: absolute;
+left: 0;
+padding: 10px;
+
 }
 
 .eyes {
